@@ -10,7 +10,7 @@ int main(void)
 	I have no way of knowing how many students will register
 	next year. Because of that I should use a dynamic
 	array such as vector. */
-	
+	cout<<"23123213123"<<endl;
 	vector <char> vowels;
 	vector <int> test_scores;
 	
