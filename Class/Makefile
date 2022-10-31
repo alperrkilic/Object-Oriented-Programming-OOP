@@ -1,3 +1,3 @@
 build:
-	g++ class-ieee-work.cpp -o main
+	g++ Dynamic_Array_with_class.cpp -o main
 	./main
