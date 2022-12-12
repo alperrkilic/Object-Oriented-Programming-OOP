@@ -22,8 +22,9 @@ int main(void){
 	
 	Player empty; // None,0,0
 	Player frank{"Frank"}; //Frank,0,0
-	Player hero{"Hero",86};
+	Player hero{"Hero",86}; //Hero,86,0
 	Player villain{"Villain",100,55}; //Villain,100,55
 	
 	return 0;
+	
 }
